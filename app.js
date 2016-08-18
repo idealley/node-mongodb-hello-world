@@ -30,4 +30,4 @@ MongoClient.connect(connectionUrl, function(err, db) {
     }
     db.close();
   });
-});a
+});
