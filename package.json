@@ -9,6 +9,6 @@
   "author": "Samuel Pouyt",
   "license": "ISC",
   "dependencies": {
-    "mongodb": "^2.2.6"
+    "mongodb": "^3.0.4"
   }
 }
